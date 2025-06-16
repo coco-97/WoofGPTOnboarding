@@ -122,7 +122,7 @@ private extension PreviewProvider {
   static var mockOboardingModel: [OnboardingModel] {
     [
       OnboardingModel(
-        title: "Welcome to\n WoofGPT",
+        title: "Welcome to\n PawPatrol",
         description: "Looking for a Pet?\n Then you're at the right place",
         image: .bird
       ),
